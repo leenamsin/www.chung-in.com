@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>㈜청인하이텍</title>
+  <style>
+    body { font-family: sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: auto; }
+    header, footer { text-align: center; }
+    h1 { color: #2b5d91; }
+    nav a { margin: 0 10px; text-decoration: none; color: #2b5d91; }
+    section { margin-top: 30px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>㈜청인하이텍</h1>
+    <p>공조덕트 제작 및 시공 전문기업</p>
+    <nav>
+      <a href="#about">회사소개</a>
+      <a href="#business">사업분야</a>
+      <a href="#patent">특허</a>
+      <a href="#contact">연락처</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>회사 소개</h2>
+    <p>㈜청인하이텍은 공조 시스템용 덕트 제작과 시공을 전문으로 하는 기업입니다. <br>
+      본사는 경기도 하남시 미사대로 510, IS비즈타워 803호에 위치하고 있습니다.</p>
+  </section>
+
+  <section id="business">
+    <h2>사업 분야</h2>
+    <ul>
+      <li>공조용 아연도강판 덕트 제작 및 시공</li>
+      <li>세라믹 섬유 보온재 복합덕트</li>
+      <li>건설자재 유통 및 제조</li>
+    </ul>
+  </section>
+
+  <section id="patent">
+    <h2>특허 현황</h2>
+    <p><strong>발명의 명칭:</strong> 덕트조립체의 단열 구조<br>
+       <strong>등록번호:</strong> 제10-2722041호<br>
+       <strong>등록일:</strong> 2024년 10월 22일<br>
+       <strong>발명자:</strong> 이미경</p>
+  </section>
+
+  <section id="contact">
+    <h2>연락처</h2>
+    <p>주소: 경기도 하남시 미사대로 510, 803호 (IS비즈타워)<br>
+       전화: 031-795-3677<br>
+       이메일: (기입 필요 시 삽입)</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 ㈜청인하이텍</p>
+  </footer>
+</body>
+</html>
