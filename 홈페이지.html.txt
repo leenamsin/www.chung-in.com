@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>청인하이텍</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+    header { background: #0078d7; color: white; padding: 20px; text-align: center; }
+    section { padding: 20px; }
+    footer { background: #f4f4f4; text-align: center; padding: 10px; }
+    h1, h2 { margin-top: 0; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>주식회사 청인하이텍</h1>
+  <p>건설자재 유통 전문 기업</p>
+</header>
+
+<section>
+  <h2>회사 소개</h2>
+  <p><strong>대표자:</strong> 이미경<br/>
+     <strong>사업자등록번호:</strong> 719-81-03018<br/>
+     <strong>개업일:</strong> 2023년 2월 25일<br/>
+     <strong>주소:</strong> 경기도 하남시 미사대로 510, 8층 803호 (덕풍동, 한강미사 아이에스비즈)</p>
+</section>
+
+<section>
+  <h2>주요 사업</h2>
+  <ul>
+    <li>건설자재 유통 (닥트류, 비강비재, 전기·소방·통신 자재 등)</li>
+    <li>도매 및 소매업</li>
+  </ul>
+</section>
+
+<section>
+  <h2>특허 등록</h2>
+  <p><strong>발명의 명칭:</strong> 덕트조립체의 단열 구조<br/>
+     <strong>특허번호:</strong> 제 10-2722041 호<br/>
+     <strong>출원일:</strong> 2024년 3월 5일<br/>
+     <strong>등록일:</strong> 2024년 10월 22일<br/>
+     <strong>발명자:</strong> 이미경</p>
+</section>
+
+<section>
+  <h2>연락처</h2>
+  <p>이메일 및 연락처는 추후 업데이트 예정입니다.</p>
+</section>
+
+<footer>
+  <p>&copy; 2025 주식회사 청인하이텍. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
